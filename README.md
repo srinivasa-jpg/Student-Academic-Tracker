@@ -16,3 +16,8 @@ A local-first academic dashboard for students.
 
 ## Run
 Open `index.html` directly or serve this repository with any static web server.
+
+
+## Live Demo
+
+🌐 https://student-academic-tracker-ashoka.onrender.com
